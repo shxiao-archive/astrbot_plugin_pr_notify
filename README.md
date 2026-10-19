@@ -13,7 +13,7 @@
 在 AstrBot 插件管理页选择“通过链接安装”，填写：
 
 ```text
-https://github.com/Shxiao101/astrbot_plugin_pr_notify
+https://github.com/shxiao-archive/astrbot_plugin_pr_notify
 ```
 
 ## 配置
