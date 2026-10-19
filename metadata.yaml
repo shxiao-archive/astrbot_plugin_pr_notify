@@ -2,8 +2,9 @@ name: astrbot_plugin_pr_notify
 display_name: GitHub PR 通知
 desc: GitHub PR 通知、code owner 管理、群聊与私聊推送及群消息表情回应。
 version: v1.3.1
-author: Shxiao101
+author: shxiao-archive
 repo: https://github.com/shxiao-archive/astrbot_plugin_pr_notify
+social_link: https://github.com/shxiao-archive
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.28.1,<5"
